@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App - MSW</h1>
-                <h2>Hello World!</h2>
+                <h2>Hello, Tim!</h2>
                 <p>This application illustrates ECS as part of a pipeline</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
