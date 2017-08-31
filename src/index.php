@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Mark smells!</h1>
+                <h1>Mark does not smell!</h1>
                 <h2>New deployment</h2>
                 <p>This application illustrates ECS as part of a pipeline</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
