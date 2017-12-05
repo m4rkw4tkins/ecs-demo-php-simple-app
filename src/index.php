@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>KAte does smell!</h1>
                 <h2>New deployment</h2>
-                <p>This application illustrates ECS as part of a pipeline</p>
+                <p>This is an example of continuous deployments on ECS - Hello gang!</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
