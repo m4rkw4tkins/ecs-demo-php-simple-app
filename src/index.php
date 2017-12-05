@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>KAte does smell!</h1>
-                <h2>New deployment</h2>
+                <h1>AWS - Amazon Web Services</h1>
+                <h2>ECS - Elastic Container Service</h2>
                 <p>This is an example of continuous deployments on ECS - Hello gang!</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
