@@ -18,7 +18,13 @@
                 <h1>2nd generation: AWS - Amazon Web Services</h1>
                 <h2>ECS - Elastic Container Service</h2>
                 <p>This is an example of continuous deployments on ECS - Hello gang!</p>
-                
+                <p>The wins: 
+                    <li>Faster deployments</li>
+                    <li>Target to be >=50% cheaper</li>
+                    <li>Fully automated scalability</li>
+                    <li>On demand environments - as many as you want</li>
+                    <li>More agility in creating more microservices</li>
+                </p>
                             </div>
         </div>
 
