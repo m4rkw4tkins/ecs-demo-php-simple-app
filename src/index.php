@@ -15,17 +15,11 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>AWS - Amazon Web Services</h1>
+                <h1>2nd generation: AWS - Amazon Web Services</h1>
                 <h2>ECS - Elastic Container Service</h2>
                 <p>This is an example of continuous deployments on ECS - Hello gang!</p>
-                <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
-                <?php
-                        $myfile = fopen("/var/www/my-vol/date", "r") or die("");
-                        echo fread($myfile,filesize("/var/www/my-vol/date"));
-                        fclose($myfile);
-                ?>
-
-            </div>
+                
+                            </div>
         </div>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
