@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Updated</h1>
+                <h1>Updated 6th Feb</h1>
                 <h1>2nd generation: AWS - Amazon Web Services</h1>
                 <h2>ECS - Elastic Container Service</h2>
                 <p>This is an example of continuous deployments on ECS - Hello gang!</p>
